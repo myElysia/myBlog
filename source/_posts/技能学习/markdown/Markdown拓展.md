@@ -1,19 +1,23 @@
 ---
 title: Markdown拓展
-date: 2023-03-15 14:16:23
-categories: 技能学习
 tags:
-
-- Markdown
-- R Markdown
-- Hexo
-
+  - Markdown
+  - R Markdown
+  - Hexo
 keywords:
-- Code Block
-- Note
-- Tabs
-- Path Links
-
+  - Code Block
+  - Note
+  - Tabs
+  - Path Links
+categories:
+  - 技能学习
+  - markdown
+top_img: 'https://pic3.zhimg.com/v2-d8e1c695f6f11a6ba6e1d9c465a541c6_r.jpg'
+description: >-
+  「标签」(Tag Plugin) 是 Hexo 提供的一种快速生成特定内容的方式。 例如，在标准 Markdown
+  语法中，我们无法指定图片的大小。这种情景，我们即可使用标签来解决。...tab标签用于快速创建 tab选项卡...
+abbrlink: 129f6bc0
+date: 2023-03-15 14:16:23
 ---
 {% note info %}
 节选自 [Hexo写作技巧](https://eblog.gitee.io/posts/hexo/hexo-writing-skills.html), 可以前往原作查漏补缺。  

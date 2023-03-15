@@ -1,20 +1,16 @@
 ---
 title: Hexo建站伊始
-date: 2023-03-14 11:22:33
-categories:
-
-- 技能学习
-
 tags:
-
-- Node.js
-- Hexo
-
+  - Node.js
+  - Hexo
 keywords:
-
-- Hexo
-- 初始化
-
+  - Hexo
+  - 初始化
+categories:
+  - 技能学习
+  - hexo
+abbrlink: 38b1415b
+date: 2023-03-14 11:22:33
 ---
 
 # Hexo建站流程简述(一)
@@ -129,7 +125,7 @@ keywords:
              url: git@github.com:username/username.github.io.git  # 记得把username替换为自己的用户名
              branch: master #2020年10月后github新建仓库默认分支改为main，注意修改
              # 也可以用另一种写法,二选一即可
-           github: git@github.com:username/username.github.io.git,master
+           #github: git@github.com:username/username.github.io.git,master
          ``` 
 2. 把 `hexo` 博客内容提交到git仓库
    ```bash

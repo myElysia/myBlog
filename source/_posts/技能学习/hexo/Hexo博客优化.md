@@ -1,18 +1,17 @@
 ---
 title: Hexo博客优化
-date: 2023-03-15 15:46:27
-categories: 技能学习
 tags:
-
-- Hexo
-- 美化相关
-
+  - Hexo
+  - 美化相关
 keywords:
-
-- 腾讯COS图床
-- RSS订阅
-- 插件推荐
-
+  - 腾讯COS图床
+  - RSS订阅
+  - 插件推荐
+categories:
+  - 技能学习
+  - hexo
+abbrlink: 94271a3a
+date: 2023-03-15 15:46:27
 ---
 {% note info %}
 本篇 参照了 [hexo 教程 - 搭建个人博客踩坑](http://gungnir.top/27148.html), 若有语焉不详的内容请翻看原文或百度。

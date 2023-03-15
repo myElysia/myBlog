@@ -1,20 +1,16 @@
 ---
 title: Hexo文章变量配置
+tags:
+  - Hexo
+  - Node.js
+keywords:
+  - Front-matter
+categories:
+  - 技能学习
+  - hexo
+abbrlink: ea261fc9
 date: 2023-03-14 14:18:18
 updated: 2023-03-15 14:00:00
-categories:
-
-- 技能学习
-
-tags:
-
-- Hexo
-- Node.js
-
-keywords:
-
-- Front-matter
-
 ---
 
 > 可参照官方文档[Front-matter](https://hexo.io/zh-cn/docs/front-matter) 获得更详细的配置内容, 本文只是做个转载和备份.
