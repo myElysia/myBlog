@@ -469,10 +469,10 @@ microsoft_clarity:
 # Google Adsense (谷歌廣告)
 google_adsense:
   enable: false
-  auto_ads: true
+  auto_ads: false
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   client:
-  enable_page_level_ads: true
+  enable_page_level_ads: false
 
 # Insert ads manually (手動插入廣告)
 # ad:

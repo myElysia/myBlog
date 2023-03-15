@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.arknights.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -46,7 +46,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
   hljs: false
@@ -102,4 +102,8 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo:
+    github:
+      url: https://github.com/myElysia/myelysia.github.io.git
+      branch: main
