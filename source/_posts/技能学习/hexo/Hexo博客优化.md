@@ -13,8 +13,7 @@ categories:
 abbrlink: 94271a3a
 date: 2023-03-15 15:46:27
 ---
-{% note info %}
-本篇 参照了 [hexo 教程 - 搭建个人博客踩坑](http://gungnir.top/27148.html), 若有语焉不详的内容请翻看原文或百度。
+> 本篇 参照了 [hexo 教程 - 搭建个人博客踩坑](http://gungnir.top/27148.html), 若有语焉不详的内容请翻看原文或百度。
 
 refer:
 
@@ -29,8 +28,6 @@ refer:
 - [利用腾讯云对象存储 COS 桶托管 hexo 博客 - 腾讯云开发者社区 - 腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1947477)
 - [Hexo-deployer-cos-cdn 插件安装使用指南 | 悟尘记 - 李小龙的博客网站 (lixl.cn)](https://www.lixl.cn/2020/020936412.html#toc-heading-10)
 - [Hexo 静态网站托管到腾讯云 COS+CDN 加速以及缓存自动刷新完美方案 - 掘金 (juejin.cn)](https://juejin.cn/post/6943242978010316807#heading-7)
-
-{% endnote %}
 
 ## 插件推荐
 
